@@ -1,13 +1,17 @@
 # Starlab Barcelona
 
-**Neuroscience and Earth-observation research turned into products, services and funded projects.**
+**Connecting the electrical brain.**
 
-Starlab Barcelona S.L. is a research company in Barcelona. Its neuroscience
-unit delivers EEG analysis, brain-state modeling and human-factors studies for
-clients and consortia, and its history includes the Space division that gave
-rise to Neuroelectrics. This organization hosts Starlab's operational code,
-its deliberate open-source releases, and the repositories it shares with
-project partners.
+Starlab Barcelona S.L. is a neuroscience research company in Barcelona. It
+combines artificial intelligence and neuroscience to give clients and
+research consortia access to medical-grade neurotechnology for
+electroencephalography (EEG) and transcranial electrical stimulation (tES):
+EEG data analysis, EmoWave markers of emotional response, and research on
+neurodegeneration. Starlab is one team, Starlab Neuroscience, and is the
+company from which Neuroelectrics was born.
+
+This organization hosts Starlab's operational code, its deliberate
+open-source releases, and the repositories it shares with project partners.
 
 ## Repositories
 
