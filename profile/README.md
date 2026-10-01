@@ -1,3 +1,5 @@
+<p align="center"><img src="starlab-logo.png" alt="Starlab, living science" width="360"></p>
+
 # Starlab Barcelona
 
 **Connecting the electrical brain.**
